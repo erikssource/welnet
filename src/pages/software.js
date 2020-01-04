@@ -125,8 +125,9 @@ const Software = (props) => (
                             <span class="image left">
                                 <img src={gatsby120} alt="Gatsby Logo" />
                             </span>
-                            I guess this is a project too. I created this website using Gatsby to try out Gatsby and to make sure it was fast. I've done some Wordpress sites as well, but they aren't that interesting.
+                            I guess this is a project too. I created this website using Gatsby to try out Gatsby and to make sure it was fast. I've done some Wordpress sites as well.
                           </p>
+                          <a href="https://github.com/erikssource/welnet" target="_blank" rel="noopener noreferrer" className="button">GitHub <i className="fa fa-github fa-lg"></i></a>
                       </div>
                   </div>
               </section> 
