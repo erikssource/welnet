@@ -49,9 +49,9 @@ const Software = (props) => (
                               <span class="image left">
                                 <img src={rustlogo140} alt="Rust" />
                               </span>
-                              Why? Well, I wanted a little project to help learn Rust. Turns out Rust is pretty cool. I'll definitely be using it more.
+                              Why? Well, I wanted a little project to help learn Rust. Turns out Rust is pretty cool. I'll definitely be using it more. Thanks to web assembly, I also made a web app using the same rust code. Web assembly is a really interesting new technology.
                             </p>
-                            <a href="https://github.com/erikssource/clsol" target="_blank" rel="noopener noreferrer" className="button">GitHub <i className="fa fa-github fa-lg"></i></a>
+                            <a href="https://github.com/erikssource/clsol" target="_blank" rel="noopener noreferrer" className="button">GitHub <i className="fa fa-github fa-lg"></i></a> <a href="http://sol.welarson.net" target="_blank" rel="noopener noreferrer" className="button">Try It Out On The Web</a>
                         </div>
                     </div>
                 </section>
